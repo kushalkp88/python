@@ -28,7 +28,7 @@ try:
 except NameError:
 	print("u have not defined s")
 except:
-	print("unscuss")
+	print("unsucess")
 else:
 	print("hii")
 
@@ -44,7 +44,7 @@ try:
 except kusHal:
 	print("u have not defined s")
 except:
-	print("unscuss")
+	print("unsucess")
 else:
 	print("hii")
 
