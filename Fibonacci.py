@@ -8,6 +8,8 @@ def Fibonacci(n):
     else: 
         return Fibonacci(n-1)+Fibonacci(n-2) 
 
-k=int(input("enter the number: \n"))
-print(Fibonacci(k)) 
   
+l=[1,2,3,4,5,6,7,8,9,10]
+
+for k in range(10):
+    print(Fibonacci(l[k]))
